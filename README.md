@@ -5,13 +5,13 @@ Folder Descriptions/Contents
   Code/           
         Self-descriptive
   
-  CSV Data/       
+  CSV Data/                                                          
         Manual measurements of the organoids in CSV file format
   
-  Processed Data | CSV and Excel Files/
+  Processed Data | CSV and Excel Files/                                          
         This is the original csv data, processed in python for the purpose of programming. 
    
-   Processed Data | Statistics/
+   Processed Data | Statistics/                                              
         Statatistics and histograms generated from the organoid measurement dataset. This data is used to optimize tracker parameters. 
        
    
